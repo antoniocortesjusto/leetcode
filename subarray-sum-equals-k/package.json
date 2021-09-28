@@ -1,0 +1,16 @@
+{
+  "name": "subarray-sum-equals-k",
+  "version": "0.0.1",
+  "description": "subarray-sum-equals-k",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha --reporter spec",
+    "test:watch": "mocha --watch --reporter spec"
+  },
+  "author": "Antonio C",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.2"
+  }
+}
