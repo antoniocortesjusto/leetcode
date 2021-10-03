@@ -1,7 +1,7 @@
 var expect = require('chai').expect;
 var lengthOfLongestSubstring = require('../src/index').lengthOfLongestSubstring;
 
-describe('FizzBuzz', () => {
+describe('longest substring without repeating characters', () => {
 	it('Should return a number', () => {
 		expect(lengthOfLongestSubstring("")).to.be.a('number');
 
